@@ -1,0 +1,10 @@
+{
+"meta":{"test_sets":[],"test_metrics":[],"learn_metrics":[{"best_value":"Min","name":"Logloss"}],"launch_mode":"Train","parameters":"","iteration_count":6,"learn_sets":["learn"],"name":"experiment"},
+"iterations":[
+{"learn":[0.6878334826],"iteration":0,"passed_time":0.005629421753,"remaining_time":0.02814710877},
+{"learn":[0.6832583167],"iteration":1,"passed_time":0.0107225563,"remaining_time":0.02144511261},
+{"learn":[0.6737607609],"iteration":2,"passed_time":0.01564632803,"remaining_time":0.01564632803},
+{"learn":[0.6683647849],"iteration":3,"passed_time":0.02084988173,"remaining_time":0.01042494086},
+{"learn":[0.6616662199],"iteration":4,"passed_time":0.02602685062,"remaining_time":0.005205370125},
+{"learn":[0.6551568291],"iteration":5,"passed_time":0.03105179897,"remaining_time":0}
+]}
